@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.main {
+    padding: 10px 50px;
+    color: black;
+    text-align: center;
+    background-color: rgb(253, 223, 191);
+    border: thick double rgb(207, 111, 8);
+    border-radius: 12px;
+    box-shadow: 10px 5px 5px lightsalmon;
+    width: 500px;
+    margin: 50px auto;
+}
+
+#liststy {
+    list-style: none;
+    text-align: left;
+    margin: 10px auto;
+}
+
+#buttonc {
+    margin-left: 5px;
+}
