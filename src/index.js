@@ -13,7 +13,7 @@ root.render(
       <h1> Weather App </h1>
       <Weatherinfo />
       <small>
-        <a href="https://github.com/sarakamran/react-weather" target="_blank">
+        <a href="https://github.com/sarakamran/weather_react" target="_blank">
           Open-source code
         </a>
         , by <a href="/">Sara Kamran</a>
